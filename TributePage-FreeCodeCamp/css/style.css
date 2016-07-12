@@ -1,11 +1,9 @@
 body {
-  background-color: #d3d3d3; 
+  background-color: #ffffff; 
 }
 .main-div {
-  background-color: #ffffff;
-  border-radius:8%;
-  padding-left: 10%;
-  padding-right: 10%;
+  background-color: #EBEBEB;
+  border-radius:20px;
 }
 h2 {
   font-style: italic;
@@ -16,9 +14,28 @@ h2 {
 }
 .title-h1 {
   font-size: 72px;
-  color: #9e7acc;
+  color: #000000;
   font-family: 'Open Sans', sans-serif;
 }
 .actual-prof-pic {
-  border-radius: 100px;
+  border-radius: 10px;
+  width: 95%;
+  margin: auto;
+}
+.histlist {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.quo {
+  margin: auto;
+  width: 80%;
+}
+.quoauth {
+  color: #999999;
+  margin-left: 20%;
+}
+.linkpage {
+  width: 70%;
+  margin: 0 auto;
 }
